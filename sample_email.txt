@@ -1,0 +1,20 @@
+Subject: [FOREX SIGNAL] BUY EUR/USD 1H
+
+Pair: EUR/USD
+Timeframe: 1H
+Signal: BUY
+Entry Price: 1.08420
+Stop Loss: 1.08180
+Take Profit: 1.08900
+
+Indicators:
+- EMA50 > EMA200
+- RSI = 58.4
+- MACD bullish crossover
+- Breakout confirmed above recent resistance
+
+Timestamp: 2026-04-03T14:15:00Z
+
+Risk Disclaimer:
+This alert is for informational purposes only. It is not financial advice.
+Trading forex involves substantial risk and may not be suitable for every trader.
